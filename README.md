@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R0k3z
 - 👀 I’m interested in smartHome systems and woodworking.
-- 🌱 I’m currently learning Python3 and Home Assistance but I am new ind those matter.
+- 🌱 I’m currently learning Python3 and Home Assistance but I am new in those matter.
 - 💞️ I’m looking to collaborate on HA.
 
 
